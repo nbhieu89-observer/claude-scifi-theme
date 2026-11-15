@@ -1,0 +1,5 @@
+{
+  "name": "claude-scifi-theme",
+  "owner": { "name": "nbhieu89-observer" },
+  "plugins": [{ "name": "scifi-look", "source": "./" }]
+}
